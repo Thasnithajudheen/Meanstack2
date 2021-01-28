@@ -1,0 +1,26 @@
+#top{
+    position: absolute;
+    left: 25%;
+    /* bottom: 10%; */
+    width: 40%;
+    background-color: aqua;
+    border: black;
+    border-style: solid;
+    border-width: 1px;
+    /* margin-left: 35%;
+    padding-left: 10%; */
+}
+#bottom{
+    width: 40%;
+    background-color: rgb(79, 33, 117);
+    border: black;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 35%;
+    margin-top: 52%;
+    
+}
+h3{
+    
+    font-family: 'Indie Flower', cursive; 
+}
