@@ -1,0 +1,60 @@
+h1{
+    text-align: center;
+   font-family: 'Lobster', cursive;;
+}
+div{
+    padding: 5px;
+    margin: 5px;
+}
+#blue{
+    
+    width:130px;
+    height: 500px;
+    background-color: rgba(68, 0, 255, 0.808);
+    float: left;
+    margin-top: 35px;
+    margin-left: 23%;
+
+    
+}
+#pis{
+    width: 130px;
+    height:500px;
+    background-color: rgb(15, 136, 69);
+    float: left;
+    margin-top: 35px;
+
+
+}
+#green{
+    
+    width: 130px;
+    height: 500px;
+    background-color: rgba(0, 255, 179, 0.808);
+    float: left;
+    margin-top: 35px;
+
+    
+}
+#yellow{
+    width: 130px;
+    height: 500px;
+    background-color: rgb(182, 192, 47);
+    float: left;
+    margin-top: 35px;
+
+    
+
+}
+#red{
+    width: 130px;
+    height: 500px;
+    background-color: rgb(231, 61, 18);
+    float: left;
+    margin-top: 35px;
+
+    
+}
+
+
+
